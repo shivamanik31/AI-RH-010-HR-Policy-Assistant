@@ -1,0 +1,85 @@
+{
+  "leave_policy": {
+    "title": "Leave Policy",
+    "keywords": [
+      "leave",
+      "vacation",
+      "holiday",
+      "time off",
+      "casual leave",
+      "sick leave",
+      "earned leave",
+      "maternity",
+      "paternity"
+    ],
+    "content": "Sample leave rules:\n- Casual Leave: 12 days per year\n- Sick Leave: 10 days per year\n- Earned Leave: 15 days per year\n- Maternity Leave: 180 days\n- Paternity Leave: 15 days\n\nApplication process:\n1. Apply through the HR portal at least 3 days in advance.\n2. Obtain approval from your reporting manager.\n3. For sick leave, inform your manager on the same day.\n4. Emergency leave can be applied retrospectively.\n\nUp to 5 earned leaves may be encashed per year; encashment is processed in the last quarter."
+  },
+  "working_hours": {
+    "title": "Working Hours Policy",
+    "keywords": [
+      "working hours",
+      "timing",
+      "shift",
+      "overtime",
+      "flexible",
+      "work from home",
+      "hybrid"
+    ],
+    "content": "Sample working-hours rules:\n- Monday to Friday: 9:00 AM to 6:00 PM\n- Lunch break: 1:00 PM to 2:00 PM\n- Total: 40 hours per week\n- Flexi-time: Start between 8:00 AM and 10:00 AM\n- Work from home: 2 days per week with manager approval\n- Hybrid work may be available for eligible roles\n- Overtime is compensated with compensatory off; prior manager approval is required."
+  },
+  "code_of_conduct": {
+    "title": "Code of Conduct",
+    "keywords": [
+      "conduct",
+      "behavior",
+      "ethics",
+      "professional",
+      "discipline",
+      "dress code",
+      "harassment",
+      "confidentiality"
+    ],
+    "content": "Sample conduct rules:\n1. Maintain professional behavior.\n2. Respect colleagues, clients, and stakeholders.\n3. Avoid conflicts of interest and protect confidential company information.\n4. Communicate honestly and transparently.\n5. Discrimination and harassment are not acceptable.\n6. Report unethical behavior to HR.\n\nDress code: Business casual on regular days, business formal for client meetings, and reasonable casual attire on Fridays."
+  },
+  "benefits": {
+    "title": "Benefits & Compensation",
+    "keywords": [
+      "benefits",
+      "insurance",
+      "health",
+      "pf",
+      "provident fund",
+      "salary",
+      "gratuity",
+      "pension",
+      "compensation"
+    ],
+    "content": "Sample benefits:\n- Group health insurance: ₹5 lakh coverage for employee and family\n- Group personal accident insurance\n- Life insurance: 3 times annual salary\n- Provident Fund (PF): 12% of basic salary\n- Gratuity: applicable after 5 years of service\n- National Pension Scheme (NPS): optional\n- Annual health checkup, gym reimbursement, employee assistance program, and learning & development allowance."
+  },
+  "grievance": {
+    "title": "Grievance Redressal",
+    "keywords": [
+      "grievance",
+      "complaint",
+      "issue",
+      "problem",
+      "concern",
+      "investigation",
+      "anonymous",
+      "whistleblower"
+    ],
+    "content": "Sample grievance process:\n1. Discuss the issue with your manager when appropriate.\n2. Submit a written complaint to HR for a formal complaint.\n3. HR aims to investigate within 7 working days.\n4. Appropriate action is taken based on the findings.\n5. If unsatisfied, appeal to the Grievance Committee.\n\nSample contacts: hr@company.com, grievance@company.com, whistleblower@company.com. Complaints are treated confidentially and retaliation is not permitted."
+  },
+  "performance": {
+    "title": "Performance Review",
+    "keywords": [
+      "performance",
+      "appraisal",
+      "review",
+      "rating",
+      "promotion",
+      "salary revision"
+    ],
+    "content": "Sample performance review rules:\n- Mid-year review: July\n- Annual review: January\n- Continuous feedback: ongoing\n\nRating scale: 5 = Outstanding; 4 = Exceeds Expectations; 3 = Meets Expectations; 2 = Needs Improvement; 1 = Unsatisfactory.\n\nPromotion may consider consistent ratings of 4+ for 2 years, required training, manager recommendation, and availability of a position. Salary revision may depend on performance, market benchmarking, budget, and other company criteria."
+  }
+}

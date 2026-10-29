@@ -1,0 +1,11 @@
+AI-RH-010 demo script (about 2 minutes)
+
+1. Introduce: "This is my AI HR Policy Assistant for task AI-RH-010, student code DAS011046."
+2. Show the chat screen and sample policy topics.
+3. Ask: "How many casual leaves are available?" Show the leave policy response.
+4. Ask: "What are the standard working hours?" Show working-hours response.
+5. Ask: "Tell me about health insurance and PF." Show benefits response.
+6. Ask: "How do I file a grievance?" Show grievance response.
+7. Expand "How this query was handled" and explain intent detection / TF-IDF cosine similarity.
+8. Ask an unrelated question to demonstrate the fallback response.
+9. Close by explaining that policies are sample data and should be verified with actual HR.
